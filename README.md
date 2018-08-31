@@ -4,7 +4,6 @@ A repository for tools used to master jupyter notebook
 
 ## CHANGELOG
 
-
 ### 2018-08-30
 
 #### Scaffolding
